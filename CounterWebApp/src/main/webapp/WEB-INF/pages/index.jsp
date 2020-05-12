@@ -6,6 +6,6 @@
 
 <h2>Message : ${message}</h2>
 <h2>Counter : ${counter}</h2>
-add the line 
+I add this line of text just to test Jenkins continuous deployment process   
 </body>
 </html>
